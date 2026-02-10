@@ -1,2 +1,2 @@
 # YdmurtiaViktorina2.gifthub.io
-Project
+Викторина на тему удмуртии
